@@ -1,0 +1,28 @@
+{
+    "ownerNumber": ["6282274499424@s.whatsapp.net"],
+    "ownerName": "𝙎𝙩𝙤𝙧𝙮 || 𝙎𝙖𝙙🥀",
+    "instagram" : "https://instagram.com/rainbaikk",
+    "gcwa" : "https://chat.whatsapp.com/Kxgw8YE7JxuHjaKtGZAfvh",
+    "botName": "𝙍𝙖𝙞𝙣𝙗𝙤𝙩 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥🤖 ",
+    "footer": "𝙎𝙩𝙤𝙧𝙮 || 𝙎𝙖𝙙🥀",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "V12",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
